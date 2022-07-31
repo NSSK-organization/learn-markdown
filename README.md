@@ -29,11 +29,11 @@ To confirm you have succesfully cloned the repo, type
 ls
 ```
 
-If you see the names of several files (including one named README.md) you should be good to go! All you need is a markdown editor (there are lots of good ones for Linux and MacOS) and/or a text editor.
+If you see the names of several files (including one named README.md) you should be good to go! All you need is a markdown editor (there are lots of good ones for Linux and MacOS) and/or a text editor. Start [here](/tutorial/the_basics.md).
 
 ## Using GitHub (Windows, Chromebook, MacOS, Linux)
 
-GitHub comes with a pretty sweet markdown editor already built into it, so if you prefer, you can edit directly from there. Just make a fork of the repository and learn away!
+GitHub comes with a pretty sweet markdown editor already built into it, so if you prefer, you can edit directly from there. Just make a fork of the repository and learn away! Start [here](https://github.com/NSSK-organization/learn-markdown/blob/main/tutorial/the_basics.md).
 
 ***
 
