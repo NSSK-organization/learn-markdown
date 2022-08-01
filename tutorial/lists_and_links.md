@@ -86,4 +86,16 @@ To create a URL, include the https:// link.
 
 [GitHub](https://github.com)
 
+## Images
+
+To include images, follow this syntax:
+
+```
+!(alt-text)[link to image]
+```
+
+For instance:
+
+![the github logo](https://imgs.search.brave.com/Fm3h67kVyDkwjUTr3xk9h7-NT7j3adk4zAyerka2ikM/rs:fit:1200:1200:1/g:ce/aHR0cDovL3d3dy5w/bmdhbGwuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDE2LzA0/L0dpdGh1Yi1QTkct/SW1hZ2UucG5n)
+
 
