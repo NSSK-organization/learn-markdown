@@ -64,6 +64,8 @@ Learn more about markdown, click [here](https://anvilproject.org/guides/content/
 
 ### Reusable link
 
+>Note: These are sometimes called "reference links".
+
 To create a reusable link, follow this syntax:
 
 ```
