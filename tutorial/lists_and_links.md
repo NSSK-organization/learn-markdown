@@ -1,3 +1,5 @@
+[previous](/the_basics.md)
+
 # Links and Lists
 
 In this section, we talk about the different types of lists and links.
@@ -98,4 +100,10 @@ For instance:
 
 ![the github logo](https://imgs.search.brave.com/Fm3h67kVyDkwjUTr3xk9h7-NT7j3adk4zAyerka2ikM/rs:fit:1200:1200:1/g:ce/aHR0cDovL3d3dy5w/bmdhbGwuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDE2LzA0/L0dpdGh1Yi1QTkct/SW1hZ2UucG5n)
 
+## Exercises
 
+1. Create an unordered list with the following names: Abigail, Betty, Cooper, Dylan, Eric, Frank.
+2. Create a numbered list with the same names as exercise 1.
+3. Make this text redirect to YouTube.
+4. Make this text redirect to ../README.md.
+5. Add [this image](https://imgs.search.brave.com/Yyy8J98CVVE3JDmqsBtNkXMDV7EN2inma7DugwdUzd0/rs:fit:1200:1024:1/g:ce/aHR0cDovL2tpcmtz/dHJvYmVjay5naXRo/dWIuaW8vd2hhdGlz/bWFya2Rvd24uY29t/L2ltZy9tYXJrZG93/bi5wbmc) below.
