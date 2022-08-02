@@ -63,6 +63,24 @@ int main() {
 }
 ```
 
+## Tables
+
+To insert tables, simply use pipes (|). Put three or more hyphens (-) after the header to add cells. So this:
+
+```
+| Header | Body |
+| --- | --- |
+| Italics| Formatting |
+| Bold | Formatting |
+```
+
+will look like this:
+
+| Header | Body |
+| --- | --- |
+| Italics| Formatting |
+| Bold | Formatting |
+
 ## Exercises
 
 1. Insert a line break below this section.
