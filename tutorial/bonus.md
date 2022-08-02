@@ -81,6 +81,24 @@ will look like this:
 | Italics| Formatting |
 | Bold | Formatting |
 
+## Footnotes
+
+Creating a footnote is the same as creating a re-usable link, but with `^` before the footnote name. For instance,
+
+```
+This is a footnote.[^1]
+
+[^1]: A footnote can have multiple paragraphs.
+    Indent the paragraphs that are to be included in the footnote.
+```
+
+Will look like this:
+
+This is a footnote.[^1]
+
+[^1]: A footnote can have multiple paragraphs.
+    Indent the paragraphs that are to be included in the footnote.
+
 ## Exercises
 
 1. Insert a line break below this section.
