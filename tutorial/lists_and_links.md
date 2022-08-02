@@ -1,4 +1,4 @@
-[previous](/the_basics.md)
+[previous](./the_basics.md)
 
 # Links and Lists
 
