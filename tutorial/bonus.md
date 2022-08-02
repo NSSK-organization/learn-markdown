@@ -12,4 +12,10 @@ If you want to include a random line break in your file, just type:
 ***
 ```
 
-## 
+<this is a comment>
+
+***
+
+## There is a lot more to markdown!
+
+
