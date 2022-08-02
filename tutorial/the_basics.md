@@ -4,7 +4,14 @@ In this tutorial, we will learn the basics of markdown.
 
 ## Code
 
-There are two forms of code: `in-line code` and code blocks. To create in-line code, surround the text you would like to code-ify with one (1) grave accent/backtick (\`). The backtick can be found on the same key as the tilde (~). When creating a code block, surround the code with three (3) backticks and a newline. 
+There are two forms of code: `in-line code` and code blocks. To create in-line code, surround the text you would like to code-ify with one (1) grave accent/backtick (\`). The backtick can be found on the same key as the tilde (~). 
+
+To create a code block universally, indent the lines of code.
+
+    this is code
+    so is this
+
+When creating a code block in customized markdown (GitHub markdown, for example), surround the code with three (3) backticks and a newline. 
 
 ```
 This is a code block. It spans multiple lines.

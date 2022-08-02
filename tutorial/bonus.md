@@ -53,7 +53,7 @@ Not only is this another new line, it's also another PARAGRAPH!
 
 ## Syntax Highlighting
 
-On certain flavors of markdown, you can add syntax highlighting by putting the name of the language after the three tildes (`/````).
+On certain flavors of markdown, you can add syntax highlighting by putting the name of the language after the three tildes (/```).
 
 ```c++
 #include <iostream>
