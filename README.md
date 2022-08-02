@@ -37,6 +37,6 @@ GitHub comes with a pretty sweet markdown editor already built into it, so if yo
 
 ***
 
-[get started](nssk-organization.github.io/learn-markdown/the_basics.md)
+[get started](nssk-organization.github.io/learn-markdown/tutorial/the_basics.md)
 
 Happy marking down!
