@@ -115,9 +115,26 @@ To highlight something, follow this syntax:
 ==Highlighted words== normal words
 ```
 
-~~Words that need to be striked through~~ Words that are normal
-==Highlighted words== normal words
+~~Words that need to be striked through~~ Words that are normal  
+==Highlighted words== normal words (unfortunately, GitHub Flavored Markdown does not support highlighting)
 
+## Task Lists
+
+If, for some reason, you want to include a *static* task list, you can follow this syntax:
+
+```
+- [ ] This task is not done.
+- [x] This task is!
+- [ ] This task is not.
+- [ ] neither is this.
+```
+
+which will look like this:
+
+- [ ] This task is not done.
+- [x] This task is!
+- [ ] This task is not.
+- [ ] neither is this.
 
 ## Exercises
 
