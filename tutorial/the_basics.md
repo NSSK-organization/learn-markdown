@@ -80,4 +80,5 @@ Make this text both bold and italic!
 5. Turn the following line into a blockquote:
 Why is this not a blockquote?
 
-[next](/lists_and_links.md)
+[next](/lists_and_links.md) (editing)
+[next](nssk-organization.github.io/learn-markdown/lists_and_links.md) (reading)
