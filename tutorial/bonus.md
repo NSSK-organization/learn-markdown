@@ -2,7 +2,9 @@
 
 # Bonus Tools
 
-Congratulations on making it this far! You now know most of markdown. There are a couple of final things to do, and you should be on your way!
+Congratulations on making it this far! You now know most of markdown. There are a couple of final things to do (if you want to), and you should be on your way!
+
+>Note: Not everything here works with basic markdown.
 
 ## Line breaks
 
@@ -98,6 +100,24 @@ This is a footnote.[^1]
 
 [^1]: A footnote can have multiple paragraphs.
     Indent the paragraphs that are to be included in the footnote.
+
+## Strikethrough and Highlighting
+
+To strike something through, follow this syntax:
+
+```
+~~Words that need to be striked through~~ Words that are normal
+```
+
+To highlight something, follow this syntax:
+
+```
+==Highlighted words== normal words
+```
+
+~~Words that need to be striked through~~ Words that are normal
+==Highlighted words== normal words
+
 
 ## Exercises
 
