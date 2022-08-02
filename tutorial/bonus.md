@@ -83,6 +83,8 @@ will look like this:
 | Italics| Formatting |
 | Bold | Formatting |
 
+Tables *can* be expanded.
+
 ## Footnotes
 
 Creating a footnote is the same as creating a re-usable link, but with `^` before the footnote name. For instance,
@@ -141,6 +143,20 @@ which will look like this:
 1. Insert a line break below this section.
 2. Comment out the following line:
 This line should be commented out!
+3. Add the following line breaks:  
+This should be on one line.
+This should be on another.
+4. Add a table with the following heading: (food, type) and the following pairs: (eggs, dairy), (chicken, meat), (broccoli, vegetables).
+5. Make the following code have the same syntax highlighting as C (programming language).
+```
+#include <stdio.h>
+
+int main() {
+    printf("This should look like C!\n");
+}
+```
+6. Strike this text through.
+7. Add a task list with three completed tasks and two uncompleted ones.
 
 ******
 
