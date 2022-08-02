@@ -81,4 +81,3 @@ Make this text both bold and italic!
 Why is this not a blockquote?
 
 [next](/lists_and_links.md) (editing)
-[next](nssk-organization.github.io/learn-markdown/lists_and_links.md) (reading)
