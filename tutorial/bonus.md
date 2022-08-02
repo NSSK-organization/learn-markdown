@@ -148,6 +148,7 @@ This should be on one line.
 This should be on another.
 4. Add a table with the following heading: (food, type) and the following pairs: (eggs, dairy), (chicken, meat), (broccoli, vegetables).
 5. Make the following code have the same syntax highlighting as C (programming language).
+
 ```
 #include <stdio.h>
 
