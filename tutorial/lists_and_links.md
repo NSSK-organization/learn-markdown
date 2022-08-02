@@ -109,3 +109,5 @@ For instance:
 3. Make this text redirect to YouTube.
 4. Make this text redirect to `../README.md`.
 5. Add [this image](https://imgs.search.brave.com/Yyy8J98CVVE3JDmqsBtNkXMDV7EN2inma7DugwdUzd0/rs:fit:1200:1024:1/g:ce/aHR0cDovL2tpcmtz/dHJvYmVjay5naXRo/dWIuaW8vd2hhdGlz/bWFya2Rvd24uY29t/L2ltZy9tYXJrZG93/bi5wbmc) below.
+
+[next](/bonus.md)
