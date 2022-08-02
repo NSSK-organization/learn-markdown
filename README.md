@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="F6Ue4-g2rx1rrYl9TIDpmeAGpd29TiOzOd70-Laavrk" />
+
 # Learning markdown
 
 A simple markdown tutorial.
