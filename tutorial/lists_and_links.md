@@ -20,7 +20,7 @@ To create an unordered list, simply put several different words on newlines, wit
 
 would look like *this* in markdown:
 
-```
+```markdown
 * Eggs
 * Milk
 * Spinach
@@ -39,7 +39,7 @@ To create a numbered list, all you have to do is write the numbers in order from
 
 would look like *this* in markdown:
 
-```
+```markdown
 1. Line 1
 2. Line 2
 3. This is line 3
@@ -54,7 +54,7 @@ There are two ways to create a link in markdown: a one-time link and a reusable 
 
 To create a one-time link, follow this syntax:
 
-```
+```markdown
 lorem ipsum [text you want to highlight](linktoredirect.to)
 ```
 
@@ -68,7 +68,7 @@ Learn more about markdown, click [here](https://anvilproject.org/guides/content/
 
 To create a reusable link, follow this syntax:
 
-```
+```markdown
 lorem ipsum [text you want to highlight][link name].
 
 [link name]: linktoredirect.to
@@ -94,7 +94,7 @@ To create a URL, include the https:// link.
 
 To include images, follow this syntax:
 
-```
+```markdown
 !(alt-text)[link to image]
 ```
 
