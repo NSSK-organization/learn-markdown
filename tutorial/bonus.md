@@ -10,7 +10,7 @@ Congratulations on making it this far! You now know most of markdown. There are 
 
 If you want to include a random line break in your file, just type:
 
-```
+```markdown
 ******
 ```
 
@@ -18,7 +18,7 @@ If you want to include a random line break in your file, just type:
 
 Because markdown works so easily with HTML, you can use HTML tags as makeshift comments. This may not work everywhere, but it *does* work in GitHub and other places. This is the syntax for doing this:
 
-```
+```markdown
 This is dummy text <this is a comment>
 ```
 
@@ -69,7 +69,7 @@ int main() {
 
 To insert tables, simply use pipes (|). Put three or more hyphens (-) after the header to add cells. So this:
 
-```
+```markdown
 | Header | Body |
 | --- | --- |
 | Italics| Formatting |
@@ -89,7 +89,7 @@ Tables *can* be expanded.
 
 Creating a footnote is the same as creating a re-usable link, but with `^` before the footnote name. For instance,
 
-```
+```markdown
 This is a footnote.[^1]
 
 [^1]: A footnote can have multiple paragraphs.
@@ -107,24 +107,26 @@ This is a footnote.[^1]
 
 To strike something through, follow this syntax:
 
-```
+```markdown
 ~~Words that need to be striked through~~ Words that are normal
 ```
 
 To highlight something, follow this syntax:
 
-```
-==Highlighted words== normal words
+```html
+==Highlighted words== normal words, or, since some flavors of markdown don't support this, use the html tag liks this:
+<mark> Highlighted words </mark> normal words
 ```
 
 ~~Words that need to be striked through~~ Words that are normal  
-==Highlighted words== normal words (unfortunately, GitHub Flavored Markdown does not support highlighting)
+==Highlighted words== normal words (unfortunately, GitHub Flavored Markdown does not support highlighting)  
+<mark> Highlighted words </mark> normal words
 
 ## Task Lists
 
 If, for some reason, you want to include a *static* task list, you can follow this syntax:
 
-```
+```markdown
 - [ ] This task is not done.
 - [x] This task is!
 - [ ] This task is not.
