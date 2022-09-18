@@ -29,7 +29,7 @@ int main() {
 
 Headers are simple in markdown. To create a header, simply put a hashtag (#) before the word.
 
-```
+```markdown
 # This text would be a header (if it weren't in a code block).
 ## This text would be an even smaller header!
 #### This text would be normal-sized!
@@ -41,7 +41,7 @@ Headers are simple in markdown. To create a header, simply put a hashtag (#) bef
 
 To create bold text, surround your text with **four asterisks** (two on each side). To make your text italic, surround it with two *asterisks* or _underscores_. Sometimes, you can surround your text with __four underscores__ to make it bold.
 
-```
+```markdown
 *This text would be italic!*
 _So would this!_
 **This text would be bold!**
@@ -54,7 +54,7 @@ You can make your text **bold** and *italic* ***at the same time!***
 
 To create a blockquote, simply put a `>` sign on a newline and type. **DO NOT KEEP A SPACE AFTER THE `>`, or IT WILL NOT WORK!**
 
-```
+```markdown
 >This would be a blockquote!
 ```
 
